@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity
     protected void onStop()
     {
         super.onStop();
-        Toast.makeText(this, "Beep Boop It is STOPED!!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Beep Boop It is STOPPED!!", Toast.LENGTH_SHORT).show();
     }
     //--------------------------------------------------------------------------------------------//
     @Override
